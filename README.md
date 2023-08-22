@@ -1,4 +1,4 @@
-# QuadB_Assignment
+# QuadB_Assignment_Table_Template 
 
 1. npm install
 2. nodemon a.js to run server
